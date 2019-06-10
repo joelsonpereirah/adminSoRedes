@@ -1,0 +1,17 @@
+# NOME: Joelson Pereira da Silva
+#Atividade Pratica 9
+
+#2.1.a
+tar -cvf etc.tar /etc/
+#2.1.b
+tar -tf etc.tar
+#2.1.c
+tar -cvzf etc.tar.gz /etc/
+#2.1.d 
+
+#2.1.e
+
+#2.1.f
+
+#2.1.g
+
